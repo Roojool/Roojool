@@ -63,7 +63,7 @@
     <rect x="651" y="0" width="86" height="28" rx="5" fill="#f0f2f5" stroke="#d8dee4" stroke-width="1"/>
     <text x="665" y="18" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="500" fill="#1f2328">EDGE AI</text>
 
-    <!-- Location Coordinate Tag -->
-    <text x="752" y="18" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#57606a">PUNE, IN [18.52° N, 73.85° E]</text>
+    <!-- Location Tag -->
+    <text x="795" y="18" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#57606a">PUNE, MAHARASHTRA, IN</text>
   </g>
 </svg>

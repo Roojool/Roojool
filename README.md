@@ -23,29 +23,29 @@
 | Research Vector | Focus / Scope | Operational State | Current Target |
 | :--- | :--- | :---: | :--- |
 | **Human-Centered AI &amp; Usability** | Interaction dynamics, AI usability evaluation in ICT systems | `[ACTIVE]` | Research group under Prof. Ganesh Bhutkar; scheduled CHIuXD 2026 presentation |
-| **Video Management Systems (VMS)** | VMS architectures, streaming pipelines &amp; camera telemetry | `[ACTIVE]` | 60-paper literature review corpus (2015–2025) &amp; architectural synthesis |
+| **Video Management Systems (VMS)** | VMS architectures, streaming pipelines &amp; camera telemetry | `[ACTIVE]` | Structured literature-review corpus of 60 VMS-related academic papers (2015–2025) |
 | **Edge AI &amp; Video Analytics** | Real-time perceptual inference, pipeline latency &amp; edge compute | `[ACTIVE]` | Multi-capability analytics verification &amp; RTSP telemetry pipelines |
 | **Android Transport &amp; Networking** | Cellular queue latency, bufferbloat characterization &amp; mobile telemetry | `[EXPERIMENTAL]` | Android transport measurement tooling &amp; latency profiling |
-| **LLM Architectures &amp; Agent Systems** | Retrieval-Augmented Generation, tool execution &amp; structured inference | `[EXPERIMENTAL]` | Low-hallucination agent architectures &amp; document synthesis |
+| **LLM Architectures &amp; Agent Systems** | Retrieval-Augmented Generation, tool execution &amp; structured inference | `[EXPERIMENTAL]` | Grounded agent workflows, tool execution &amp; document synthesis |
 
 ---
 
 ### `// 02. SELECTED SYSTEMS & FLAGSHIP WORK`
 
-> *A curated selection of publicly observable systems, technical showcases, and empirical investigations.*
+> *A curated selection of publicly observable systems, technical showcases, and experimental projects.*
 
 | System / Repository | Primary Domain | Problem Explored | Technical Stack | Experimental Status |
 | :--- | :--- | :--- | :--- | :---: |
 | [**`5G-Bufferbloat-App`**](https://github.com/Roojool/5G-Bufferbloat-App) | Android Networking / Transport | Investigating queue delay, latency inflation under loaded cellular connections, and transport telemetry on mobile devices | `Kotlin` `Java` `Android SDK` `Networking` `Telemetry` | `EXPERIMENTAL` <br/>*(Active exploration)* |
 | [**`ai-video-analytics-showcase`**](https://github.com/Roojool/ai-video-analytics-showcase) | AI Video Analytics / VMS | Interactive research catalog detailing 28 computer vision capabilities with verified visual demonstrations and operational constraints | `Computer Vision` `Video Analytics` `VMS Architectures` `Web UI` | `STABLE SHOWCASE` <br/>*(Verified demos)* |
-| [**`pmc-cctv-surveillance-editorial`**](https://github.com/Roojool/pmc-cctv-surveillance-editorial) | CCTV / Surveillance Systems | Technical analysis and architectural editorial on municipal surveillance deployment, camera coverage, and VMS scalability | `CCTV Systems` `VMS Analysis` `Surveillance` `Editorial` | `PUBLISHED` <br/>*(Technical editorial)* |
+| [**`pmc-cctv-surveillance-editorial`**](https://github.com/Roojool/pmc-cctv-surveillance-editorial) | CCTV / Surveillance Systems | Interactive technical showcase exploring CCTV infrastructure, AI video analytics and VMS architecture in a municipal-scale scenario | `CCTV Systems` `VMS Architectures` `Video Analytics` `Technical Editorial` | `ACTIVE SHOWCASE` <br/>*(Technical showcase)* |
 
 #### `// OTHER PUBLIC WORK`
 - [**`5G-India-Gaming-Guide`**](https://github.com/Roojool/5G-India-Gaming-Guide) — Practical systems guide on optimizing Android 5G tethering / hotspot transport and reducing packet routing jitter for Windows endpoints.
 
 ---
 
-### `// 03. RESEARCH PHILOSOPHY & EMPIRICAL DISCIPLINE`
+### `// 03. RESEARCH PHILOSOPHY & METHODOLOGY`
 
 Modern systems engineering and applied AI research require rigorous distinction between configuration, assumption, and measurable reality.
 
@@ -61,10 +61,10 @@ Modern systems engineering and applied AI research require rigorous distinction 
 
 #### Core Working Principles:
 1. **Measure Before Claiming:** No optimization or algorithmic improvement is accepted without baseline and post-intervention comparative instrumentation.
-2. **Distinguish Configuration from Behavior:** Parameterizing a pipeline does not guarantee runtime compliance; observable execution telemetry is authoritative.
+2. **Distinguish Configuration from Behavior:** Parameterizing a pipeline does not guarantee runtime compliance; observable execution telemetry provides the ground truth.
 3. **Preserve Negative Results:** Null hypotheses, failed latency thresholds, and unviable inference topologies are preserved as valid engineering signal.
 4. **Defensible Limits:** State explicit boundaries, hardware constraints, and failure modes rather than claiming universal generalization.
-5. **Reproducible Tooling:** Maintain reproducible configurations, explicit seeds, and deterministic environments wherever feasible.
+5. **Reproducible Tooling:** Maintain reproducible configurations, explicit seeds, and controlled environments wherever feasible.
 
 ---
 
@@ -75,17 +75,17 @@ Modern systems engineering and applied AI research require rigorous distinction 
 - **Role:** Research Intern under **Prof. Ganesh Bhutkar**
 - **Research Group Focus:** Usability of AI ICT Applications
 - **Scheduled Presentation:** CHIuXD 2026 (Indonesia, December 2026) — Research work examining usability frameworks and human-interaction metrics in AI-assisted ICT systems.
-- **Corpus Synthesis:** Systematic literature review across 60 peer-reviewed papers (2015–2025) investigating Video Management Systems (VMS), distributed video pipelines, and surveillance analytics.
+- **Corpus Synthesis:** Structured literature-review corpus of 60 VMS-related academic papers (2015–2025) examining Video Management Systems, distributed video pipelines, and surveillance analytics architectures.
 
-#### Peer-Reviewed Publications & Preprints
+#### Academic Publications & Research Output
 ```
-[ ARCHIVE // PUBLICATIONS ]
+[ PUBLICATIONS // VERIFIED ENTRIES BEING INDEXED ]
 ------------------------------------------------------------------------------------------------------
-Entry slots reserved for finalized peer-reviewed articles.
-Unpublished research data and ongoing manuscript evaluations are maintained in private lab archives.
+Verified publication entries, citation metadata, and preprint indices are currently being prepared
+for public listing.
 ------------------------------------------------------------------------------------------------------
 ```
-*(Peer-reviewed papers will be linked here with verified DOI, preprint links, and citation metadata as formal reviews conclude.)*
+*(Verified entries will be indexed here with venue, year, DOI, and preprint links.)*
 
 ---
 
@@ -119,7 +119,7 @@ Unpublished research data and ongoing manuscript evaluations are maintained in p
 <br/>
 
 - **Languages:** Python, C, C++, Java, Kotlin, TypeScript, JavaScript, SQL, POSIX Shell
-- **AI & Perceptual Systems:** Computer Vision, OpenCV, PyTorch, Video Analytics, LLM Architectures, RAG Systems, LangChain, Model Inference APIs
+- **AI & Perceptual Systems:** Computer Vision, OpenCV, Video Analytics, LLM Architectures, RAG Systems, LangChain, Model Inference APIs
 - **Systems & Infrastructure:** Android SDK / NDK, JNI Interfacing, Linux Runtimes, Docker Containers, CMake, Git, GitHub Actions CI/CD
 - **Web & Interface Engineering:** React, Next.js, Node.js, Express, FastAPI, MongoDB, MySQL, RESTful Services, WebSocket Streaming
 </details>
@@ -137,7 +137,7 @@ Ongoing research efforts, active experimental sandboxes, and upcoming public tec
 #### Planned Open Research Repositories *(In Development)*:
 ```
 ├── Frigate-VMS-Lab                 [IN DEVELOPMENT // VMS integration & NVR telemetry]
-├── VMS-Literature-Evidence-Lab     [IN DEVELOPMENT // 60-paper corpus taxonomy & empirical matrix]
+├── VMS-Literature-Evidence-Lab     [IN DEVELOPMENT // 60-paper corpus taxonomy & comparative matrix]
 ├── Human-AI-Usability-Lab          [IN DEVELOPMENT // Evaluation scripts & HCI usability rubrics]
 └── OpenCV-RTSP-Latency-Lab         [IN DEVELOPMENT // Frame-dropping & end-to-end latency benchmarks]
 ```
@@ -172,7 +172,7 @@ Ongoing research efforts, active experimental sandboxes, and upcoming public tec
 <br/>
 
 ```
-[ PGP / CONTACT ]  ·  Pune, Maharashtra, India  ·  UTC+05:30 IST
+[ RESEARCH / ENGINEERING CONTACT ]  ·  Pune, Maharashtra, India  ·  UTC+05:30 IST
 Portfolio Website & Academic Dissemination Links Available Post-Release
 ```
 
@@ -181,5 +181,5 @@ Portfolio Website & Academic Dissemination Links Available Post-Release
 ---
 
 <div align="center">
-<sub>Repository telemetry tracked deterministically via <a href=".github/workflows/refresh-profile.yml">refresh-profile.yml</a> · Structured profile records maintained in <a href="data/profile.json">profile.json</a></sub>
+<sub>Repository telemetry tracked automatically via <a href=".github/workflows/refresh-profile.yml">refresh-profile.yml</a> · Structured profile records maintained in <a href="data/profile.json">profile.json</a></sub>
 </div>

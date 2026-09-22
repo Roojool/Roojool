@@ -4,7 +4,6 @@
     "title": "AI Researcher × Systems Builder",
     "username": "Roojool",
     "location": "Pune, Maharashtra, India",
-    "coordinates": "18.5204° N, 73.8567° E",
     "timezone": "Asia/Kolkata (UTC+05:30)",
     "status": "Active Research & Systems Engineering"
   },
@@ -28,7 +27,7 @@
     "institution": "Vishwakarma Institute of Technology (VIT Pune)",
     "focus_group": "Usability of AI ICT Applications",
     "upcoming_presentation": "Scheduled CHIuXD presentation (Indonesia, December 2026)",
-    "literature_synthesis": "Comprehensive literature review corpus of 60 VMS research papers (2015–2025)",
+    "literature_synthesis": "Structured literature-review corpus of 60 VMS-related academic papers (2015–2025)",
     "methodology": "Configured State → Observed State → Measured Behavior → Defensible Conclusion"
   },
   "patent": {
@@ -69,7 +68,7 @@
       "repository": "Roojool/pmc-cctv-surveillance-editorial",
       "url": "https://github.com/Roojool/pmc-cctv-surveillance-editorial",
       "domain": "Interactive CCTV / VMS Technical Showcase",
-      "description": "Technical editorial analyzing municipal-scale CCTV surveillance infrastructure, architectural constraints, and operational analytics.",
+      "description": "Interactive technical showcase exploring CCTV infrastructure, AI video analytics and VMS architecture in a municipal-scale scenario.",
       "status": "Active Showcase",
       "stack": ["CCTV", "VMS Architectures", "Surveillance Systems", "Editorial Analysis"]
     }

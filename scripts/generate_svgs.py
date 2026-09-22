@@ -93,8 +93,8 @@ def build_banner(is_dark=True):
     <rect x="651" y="0" width="86" height="28" rx="5" fill="{pill_bg}" stroke="{pill_border}" stroke-width="1"/>
     <text x="665" y="18" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="500" fill="{text_primary}">EDGE AI</text>
 
-    <!-- Location Coordinate Tag -->
-    <text x="752" y="18" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="{text_secondary}">PUNE, IN [18.52° N, 73.85° E]</text>
+    <!-- Location Tag -->
+    <text x="795" y="18" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="{text_secondary}">PUNE, MAHARASHTRA, IN</text>
   </g>
 </svg>"""
 
@@ -200,8 +200,8 @@ def build_research(is_dark=True):
 
   <!-- Header -->
   <g transform="translate(24, 28)">
-    <text font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="600" fill="{accent}" letter-spacing="1.5">RESEARCH METHODOLOGY &amp; EMPIRICAL PIPELINE</text>
-    <text x="560" y="0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="{text_secondary}">DISCIPLINE: RIGOROUS EMPIRICAL VERIFICATION</text>
+    <text font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="600" fill="{accent}" letter-spacing="1.5">RESEARCH METHODOLOGY &amp; EXPERIMENTAL PIPELINE</text>
+    <text x="560" y="0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="{text_secondary}">DISCIPLINE: RIGOROUS SYSTEMATIC VERIFICATION</text>
   </g>
   <line x1="24" y1="38" x2="936" y2="38" stroke="{border}" stroke-width="0.8"/>
 
