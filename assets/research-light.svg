@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 180" width="100%" height="180" style="background:transparent;">
+  <!-- Container Card -->
+  <rect width="958" height="178" x="1" y="1" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- Header -->
+  <g transform="translate(24, 28)">
+    <text font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="600" fill="#0969da" letter-spacing="1.5">RESEARCH METHODOLOGY &amp; EMPIRICAL PIPELINE</text>
+    <text x="560" y="0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#57606a">DISCIPLINE: RIGOROUS EMPIRICAL VERIFICATION</text>
+  </g>
+  <line x1="24" y1="38" x2="936" y2="38" stroke="#d0d7de" stroke-width="0.8"/>
+
+  <!-- 4 Pipeline Stages -->
+  <!-- Stage 1 -->
+  <g transform="translate(24, 56)">
+    <rect width="206" height="96" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="14" y="22" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="700" fill="#0969da">01 // SETUP</text>
+    <text x="14" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f2328">Configured State</text>
+    <text x="14" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">Controlled baselines,</text>
+    <text x="14" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">environment parameters</text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <path d="M 238 104 L 254 104 M 250 99 L 255 104 L 250 109" stroke="#0969da" stroke-width="1.8" fill="none"/>
+
+  <!-- Stage 2 -->
+  <g transform="translate(262, 56)">
+    <rect width="206" height="96" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="14" y="22" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="700" fill="#0969da">02 // INSTRUMENT</text>
+    <text x="14" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f2328">Observed State</text>
+    <text x="14" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">Telemetry streams, video</text>
+    <text x="14" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">frames &amp; packet logs</text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <path d="M 476 104 L 492 104 M 488 99 L 493 104 L 488 109" stroke="#0969da" stroke-width="1.8" fill="none"/>
+
+  <!-- Stage 3 -->
+  <g transform="translate(500, 56)">
+    <rect width="206" height="96" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="14" y="22" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="700" fill="#0969da">03 // QUANTIFY</text>
+    <text x="14" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f2328">Measured Behavior</text>
+    <text x="14" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">Latency, queue depth,</text>
+    <text x="14" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">and usability metrics</text>
+  </g>
+
+  <!-- Arrow 3 -->
+  <path d="M 714 104 L 730 104 M 726 99 L 731 104 L 726 109" stroke="#1a7f37" stroke-width="1.8" fill="none"/>
+
+  <!-- Stage 4 -->
+  <g transform="translate(738, 56)">
+    <rect width="198" height="96" rx="6" fill="#f6f8fa" stroke="#1a7f37" stroke-width="1.2"/>
+    <text x="14" y="22" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="700" fill="#1a7f37">04 // SYNTHESIZE</text>
+    <text x="14" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f2328">Defensible Claim</text>
+    <text x="14" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">Reproducible conclusions,</text>
+    <text x="14" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">explicit bounds &amp; limits</text>
+  </g>
+</svg>

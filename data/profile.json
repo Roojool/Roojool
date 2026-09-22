@@ -1,0 +1,101 @@
+{
+  "identity": {
+    "name": "Rujul Talekar",
+    "title": "AI Researcher × Systems Builder",
+    "username": "Roojool",
+    "location": "Pune, Maharashtra, India",
+    "coordinates": "18.5204° N, 73.8567° E",
+    "timezone": "Asia/Kolkata (UTC+05:30)",
+    "status": "Active Research & Systems Engineering"
+  },
+  "education": {
+    "degree": "B.Tech in Computer Engineering",
+    "institution": "Vishwakarma Institute of Technology (VIT Pune)",
+    "location": "Pune, India"
+  },
+  "research_interests": [
+    "Human-Centered AI & AI Usability",
+    "Video Analytics & Intelligent Surveillance",
+    "Video Management Systems (VMS)",
+    "Computer Vision & Edge Inference",
+    "LLM Systems, RAG & Autonomous Agents",
+    "Android Networking & Transport Dynamics",
+    "Bufferbloat Characterization & Queue Management"
+  ],
+  "current_work": {
+    "role": "Research Intern",
+    "advisor": "Prof. Ganesh Bhutkar",
+    "institution": "Vishwakarma Institute of Technology (VIT Pune)",
+    "focus_group": "Usability of AI ICT Applications",
+    "upcoming_presentation": "Scheduled CHIuXD presentation (Indonesia, December 2026)",
+    "literature_synthesis": "Comprehensive literature review corpus of 60 VMS research papers (2015–2025)",
+    "methodology": "Configured State → Observed State → Measured Behavior → Defensible Conclusion"
+  },
+  "patent": {
+    "title": "Personalized Voice Control Car",
+    "field": "Electronics",
+    "filing_date": "2025-12-11",
+    "publication_date": "2026-01-23",
+    "ipc_classification": [
+      "G10L 17/00",
+      "G10L 17/22",
+      "G10L 15/22",
+      "G10L 17/04",
+      "G10L 17/02"
+    ],
+    "status": "Published"
+  },
+  "featured_projects": [
+    {
+      "name": "5G-Bufferbloat-App",
+      "repository": "Roojool/5G-Bufferbloat-App",
+      "url": "https://github.com/Roojool/5G-Bufferbloat-App",
+      "domain": "Android Networking / Transport Research",
+      "description": "Experimental exploration of bufferbloat behavior, queue latency, and transport dynamics under cellular connectivity.",
+      "status": "Experimental",
+      "stack": ["Android", "Kotlin", "Java", "Networking", "Telemetry"]
+    },
+    {
+      "name": "ai-video-analytics-showcase",
+      "repository": "Roojool/ai-video-analytics-showcase",
+      "url": "https://github.com/Roojool/ai-video-analytics-showcase",
+      "domain": "AI Video Analytics / VMS Research Showcase",
+      "description": "Interactive presentation and research showcase cataloging 28 AI Video Analytics capabilities with verified video demonstrations.",
+      "status": "Active Showcase",
+      "stack": ["Computer Vision", "Video Analytics", "VMS Architectures", "Web Architecture"]
+    },
+    {
+      "name": "pmc-cctv-surveillance-editorial",
+      "repository": "Roojool/pmc-cctv-surveillance-editorial",
+      "url": "https://github.com/Roojool/pmc-cctv-surveillance-editorial",
+      "domain": "Interactive CCTV / VMS Technical Showcase",
+      "description": "Technical editorial analyzing municipal-scale CCTV surveillance infrastructure, architectural constraints, and operational analytics.",
+      "status": "Active Showcase",
+      "stack": ["CCTV", "VMS Architectures", "Surveillance Systems", "Editorial Analysis"]
+    }
+  ],
+  "other_work": [
+    {
+      "name": "5G-India-Gaming-Guide",
+      "repository": "Roojool/5G-India-Gaming-Guide",
+      "url": "https://github.com/Roojool/5G-India-Gaming-Guide",
+      "domain": "Network Optimization Guide",
+      "description": "Android 5G hotspot optimization guide for Airtel/Jio and Windows laptop users.",
+      "status": "Published Guide",
+      "stack": ["Android", "5G Hotspot", "Windows Networking", "Routing Optimization"]
+    }
+  ],
+  "technologies": {
+    "core_languages": ["Python", "C", "C++", "Java", "Kotlin", "TypeScript", "JavaScript", "SQL", "Bash"],
+    "ai_and_vision": ["Computer Vision", "OpenCV Pipelines", "Video Analytics", "LLM Architectures", "RAG Systems", "LangChain", "OpenAI APIs"],
+    "systems_and_runtime": ["Android SDK", "JNI / NDK", "Linux Runtimes", "Docker Containers", "CMake", "Git", "GitHub Actions"],
+    "web_and_backend": ["React", "Next.js", "Node.js", "Express", "FastAPI", "MongoDB", "MySQL"]
+  },
+  "links": {
+    "github": "https://github.com/Roojool",
+    "linkedin": "https://www.linkedin.com/in/rujul-talekar/",
+    "portfolio": null,
+    "google_scholar": null,
+    "email": null
+  }
+}

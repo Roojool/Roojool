@@ -1,0 +1,40 @@
+name: Refresh Profile Telemetry
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Run once a week at Sunday 00:00 UTC to minimize unnecessary actions
+    - cron: '0 0 * * 0'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Telemetry Refresher
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/refresh-profile.py
+
+      - name: Commit and Push (Only if changes detected)
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --local user.name "github-actions[bot]"
+            git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/telemetry.json
+            git commit -m "chore(telemetry): automated public metadata refresh [skip ci]"
+            git push origin main
+          else
+            echo "No changes detected. Skipping commit."
+          fi

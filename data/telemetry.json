@@ -1,0 +1,67 @@
+{
+  "user": "Roojool",
+  "public_repos_count": 5,
+  "total_stars": 0,
+  "total_forks": 0,
+  "repositories": [
+    {
+      "name": "5G-Bufferbloat-App",
+      "url": "https://github.com/Roojool/5G-Bufferbloat-App",
+      "description": "",
+      "language": "Kotlin",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "is_fork": false
+    },
+    {
+      "name": "5G-India-Gaming-Guide",
+      "url": "https://github.com/Roojool/5G-India-Gaming-Guide",
+      "description": "Android 5G hotspot optimization guide for Airtel/Jio and Windows laptop users",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "is_fork": false
+    },
+    {
+      "name": "ai-video-analytics-showcase",
+      "url": "https://github.com/Roojool/ai-video-analytics-showcase",
+      "description": "Interactive presentation and research showcase of 28 AI Video Analytics capabilities with verified video demos",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "is_fork": false
+    },
+    {
+      "name": "pmc-cctv-surveillance-editorial",
+      "url": "https://github.com/Roojool/pmc-cctv-surveillance-editorial",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "is_fork": false
+    },
+    {
+      "name": "Roojool",
+      "url": "https://github.com/Roojool/Roojool",
+      "description": "AI research, systems engineering, computer vision, HCI and experimental software.",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "computer-vision",
+        "human-computer-interaction",
+        "networking",
+        "portfolio",
+        "research",
+        "video-analytics"
+      ],
+      "is_fork": false
+    }
+  ]
+}

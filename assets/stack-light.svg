@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 270" width="100%" height="270" style="background:transparent;">
+  <!-- Container Card -->
+  <rect width="958" height="268" x="1" y="1" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- Header -->
+  <g transform="translate(24, 28)">
+    <text font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="600" fill="#0969da" letter-spacing="1.5">BUILD &amp; RESEARCH TOOLING MATRIX</text>
+    <text x="640" y="0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#57606a">VERIFIED TECHNICAL SURFACE</text>
+  </g>
+  <line x1="24" y1="38" x2="936" y2="38" stroke="#d0d7de" stroke-width="0.8"/>
+
+  <!-- 4 Columns Grid -->
+  <!-- Col 1: Core Languages -->
+  <g transform="translate(24, 52)">
+    <rect width="216" height="198" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="14" y="24" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="700" fill="#0969da">CORE LANGUAGES</text>
+    <line x1="14" y1="34" x2="202" y2="34" stroke="#d0d7de" stroke-width="0.8"/>
+
+    <g transform="translate(14, 50)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#1f2328">
+      <text x="0" y="0">▸ Python</text>
+      <text x="100" y="0">▸ C / C++</text>
+      <text x="0" y="26">▸ Java</text>
+      <text x="100" y="26">▸ Kotlin</text>
+      <text x="0" y="52">▸ TypeScript</text>
+      <text x="100" y="52">▸ JavaScript</text>
+      <text x="0" y="78">▸ SQL</text>
+      <text x="100" y="78">▸ Shell / Bash</text>
+    </g>
+    <text x="14" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="10" fill="#57606a">Systems &amp; algorithmic tooling</text>
+  </g>
+
+  <!-- Col 2: AI & Vision -->
+  <g transform="translate(254, 52)">
+    <rect width="216" height="198" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="14" y="24" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="700" fill="#0969da">AI &amp; VISION</text>
+    <line x1="14" y1="34" x2="202" y2="34" stroke="#d0d7de" stroke-width="0.8"/>
+
+    <g transform="translate(14, 50)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#1f2328">
+      <text x="0" y="0">▸ Computer Vision</text>
+      <text x="0" y="26">▸ OpenCV Pipelines</text>
+      <text x="0" y="52">▸ Video Analytics</text>
+      <text x="0" y="78">▸ LLM Architectures</text>
+      <text x="0" y="104">▸ RAG / Agent Systems</text>
+      <text x="0" y="130">▸ LangChain / APIs</text>
+    </g>
+    <text x="14" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="10" fill="#57606a">Inference &amp; perceptual systems</text>
+  </g>
+
+  <!-- Col 3: Systems & Runtime -->
+  <g transform="translate(484, 52)">
+    <rect width="216" height="198" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="14" y="24" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="700" fill="#0969da">SYSTEMS &amp; RUNTIME</text>
+    <line x1="14" y1="34" x2="202" y2="34" stroke="#d0d7de" stroke-width="0.8"/>
+
+    <g transform="translate(14, 50)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#1f2328">
+      <text x="0" y="0">▸ Android SDK / NDK</text>
+      <text x="0" y="26">▸ JNI Interfacing</text>
+      <text x="0" y="52">▸ Linux Environments</text>
+      <text x="0" y="78">▸ Docker Containers</text>
+      <text x="0" y="104">▸ CMake Build Systems</text>
+      <text x="0" y="130">▸ Git &amp; GitHub Actions</text>
+    </g>
+    <text x="14" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="10" fill="#57606a">Low-overhead execution runtimes</text>
+  </g>
+
+  <!-- Col 4: Web & Backend -->
+  <g transform="translate(714, 52)">
+    <rect width="222" height="198" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text x="14" y="24" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="700" fill="#0969da">WEB &amp; BACKEND</text>
+    <line x1="14" y1="34" x2="208" y2="34" stroke="#d0d7de" stroke-width="0.8"/>
+
+    <g transform="translate(14, 50)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#1f2328">
+      <text x="0" y="0">▸ React / Next.js</text>
+      <text x="0" y="26">▸ Node.js / Express</text>
+      <text x="0" y="52">▸ FastAPI Services</text>
+      <text x="0" y="78">▸ REST / WebSocket APIs</text>
+      <text x="0" y="104">▸ MongoDB</text>
+      <text x="0" y="130">▸ MySQL / PostgreSQL</text>
+    </g>
+    <text x="14" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="10" fill="#57606a">HCI dashboards &amp; telemetry sinks</text>
+  </g>
+</svg>
