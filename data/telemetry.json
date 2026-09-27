@@ -1,6 +1,6 @@
 {
   "user": "Roojool",
-  "public_repos_count": 5,
+  "public_repos_count": 8,
   "total_stars": 0,
   "total_forks": 0,
   "repositories": [
@@ -35,6 +35,39 @@
       "is_fork": false
     },
     {
+      "name": "Frigate-VMS-Lab",
+      "url": "https://github.com/Roojool/Frigate-VMS-Lab",
+      "description": "Experimental VMS research lab for RTSP pipelines, Frigate, go2rtc and edge video analytics performance.",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [
+        "benchmarking",
+        "cctv",
+        "computer-vision",
+        "docker",
+        "edge-ai",
+        "frigate",
+        "go2rtc",
+        "research",
+        "rtsp",
+        "video-analytics",
+        "video-management-system",
+        "vms"
+      ],
+      "is_fork": false
+    },
+    {
+      "name": "margin",
+      "url": "https://github.com/Roojool/margin",
+      "description": "Browser tests, with evidence. Local-first testing foundation for the FlytBase Tireless Hand hackathon.",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "is_fork": false
+    },
+    {
       "name": "pmc-cctv-surveillance-editorial",
       "url": "https://github.com/Roojool/pmc-cctv-surveillance-editorial",
       "description": "",
@@ -42,6 +75,25 @@
       "stars": 0,
       "forks": 0,
       "topics": [],
+      "is_fork": false
+    },
+    {
+      "name": "portfolio",
+      "url": "https://github.com/Roojool/portfolio",
+      "description": "Research portfolio of Rujul Talekar \u2014 AI, HCI, video analytics, computer vision and systems engineering.",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "topics": [
+        "artificial-intelligence",
+        "computer-vision",
+        "human-computer-interaction",
+        "nextjs",
+        "portfolio",
+        "research",
+        "typescript",
+        "video-analytics"
+      ],
       "is_fork": false
     },
     {
