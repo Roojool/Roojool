@@ -1,8 +1,8 @@
 {
   "user": "Roojool",
-  "public_repos_count": 16,
+  "public_repos_count": 19,
   "total_stars": 0,
-  "total_forks": 1,
+  "total_forks": 2,
   "repositories": [
     {
       "name": "5G-Bufferbloat-App",
@@ -78,6 +78,16 @@
       "is_fork": false
     },
     {
+      "name": "LatencyLens",
+      "url": "https://github.com/Roojool/LatencyLens",
+      "description": "LatencyLens: AI network diagnostics with Gemma 4, Temporal and Kepler",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 1,
+      "topics": [],
+      "is_fork": false
+    },
+    {
       "name": "margin",
       "url": "https://github.com/Roojool/margin",
       "description": "Browser tests, with evidence. Local-first testing foundation for the FlytBase Tireless Hand hackathon.",
@@ -86,6 +96,16 @@
       "forks": 0,
       "topics": [],
       "is_fork": false
+    },
+    {
+      "name": "nudgebee",
+      "url": "https://github.com/Roojool/nudgebee",
+      "description": "Unified CloudOps platform with AI-SRE, AI-FinOps, AI-K8sOps, and the Agentic Automation Builder without fragmented tools, context switching, or model lock-in.",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "is_fork": true
     },
     {
       "name": "pact",
@@ -206,6 +226,16 @@
         "research",
         "video-analytics"
       ],
+      "is_fork": false
+    },
+    {
+      "name": "Roojool.github.io",
+      "url": "https://github.com/Roojool/Roojool.github.io",
+      "description": "",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
       "is_fork": false
     }
   ]
